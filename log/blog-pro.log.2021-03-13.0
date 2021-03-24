@@ -1,0 +1,3 @@
+2021-03-13 23:47:44.980  INFO 6456 --- [restartedMain] com.star.MyblogApplication               : Starting MyblogApplication on PC-20180805SPSS with PID 6456 (C:\Users\Administrator\Downloads\myblog-mybatis-master\target\classes started by Administrator in C:\Users\Administrator\Downloads\myblog-mybatis-master)
+2021-03-13 23:47:44.987  INFO 6456 --- [restartedMain] com.star.MyblogApplication               : The following profiles are active: pro
+2021-03-13 23:47:47.587  INFO 6456 --- [restartedMain] com.star.MyblogApplication               : Started MyblogApplication in 2.987 seconds (JVM running for 3.654)

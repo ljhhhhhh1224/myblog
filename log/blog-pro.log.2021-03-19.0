@@ -1,0 +1,7 @@
+2021-03-19 12:54:56.666  INFO 632 --- [restartedMain] com.star.MyblogApplication               : Starting MyblogApplication on PC-20180805SPSS with PID 632 (C:\Users\Administrator\Downloads\myblog-mybatis-master\target\classes started by Administrator in C:\Users\Administrator\Downloads\myblog-mybatis-master)
+2021-03-19 12:54:56.671  INFO 632 --- [restartedMain] com.star.MyblogApplication               : The following profiles are active: pro
+2021-03-19 12:54:59.164  INFO 632 --- [restartedMain] com.star.MyblogApplication               : Started MyblogApplication in 2.848 seconds (JVM running for 3.478)
+2021-03-19 12:57:31.847  INFO 632 --- [http-nio-80-exec-1] com.star.aspect.LogAspect                : Request : {url='http://localhost/', ip='0:0:0:0:0:0:0:1', classMethod='com.star.controller.IndexController.index', args=[{}, 1, {}]}
+2021-03-19 12:57:32.214  INFO 632 --- [http-nio-80-exec-1] com.star.aspect.LogAspect                : Result : index
+2021-03-19 13:00:13.939  INFO 632 --- [http-nio-80-exec-9] com.star.aspect.LogAspect                : Request : {url='http://localhost/', ip='0:0:0:0:0:0:0:1', classMethod='com.star.controller.IndexController.index', args=[{}, 1, {}]}
+2021-03-19 13:00:13.944  INFO 632 --- [http-nio-80-exec-9] com.star.aspect.LogAspect                : Result : index

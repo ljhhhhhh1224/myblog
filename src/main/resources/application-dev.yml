@@ -1,0 +1,13 @@
+logging:
+  level:
+    root: info
+    com.star: debug
+  file: log/blog-dev.log
+
+mybatis:
+  type-aliases-package: com.star.entity
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
+
